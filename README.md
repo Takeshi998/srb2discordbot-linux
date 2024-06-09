@@ -12,7 +12,7 @@ rc3 y rc4 son consideradas versiones canario,es decir versiones a prueba de erro
 # SRB2DiscordBot
 <span style="font-size: 18px">¡Chatea con los jugadores de SRB2 en Discord!</span></b><br>
 <span style="font-size: 15px">Si usas el archivo .exe, no necesitas python y módulos para el bot, pero si quieres usar el archivo .py necesitas descargar python 3+ y módulos.</span><br>
-<span style="font-size: 18px">The script already works on Linux, it has not been tested for SRB2Kart and Ring Racers!</span></b><br>
+<span style="font-size: 18px">El script ya funciona en Linux, ¡no ha sido probado para SRB2Kart y Ring Racers!</span></b><br>
 <b><span style="font-size: 15px">Python modules:</span></b><br>
 <ul>
 <li data-xf-list-type="ul">Discord 1.7.3;</li>
