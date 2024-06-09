@@ -50,5 +50,5 @@ rc3 y rc4 son consideradas versiones canario,es decir versiones a prueba de erro
 <li data-xf-list-type="ul">serverparameters\parameters.cfg - parametros para el servidor, no cambiarán, a menos que edite el archivo;</li>
 <li data-xf-list-type="ul">serverparameters\pcfg&lt;X&gt;.cfg - parámetros para el servidor, si ha configurado reiniciar cambiarán.</li>
 </ul><br>
-<div style="text-align: center"><b>Guía en vídeo - [[https://youtu.be/ZiKhOHKt_xk](https://www.youtube.com/watch?v=G6fMHGC55Ts&t=92s)]</b><br>
+<div style="text-align: center"><b>Guía en vídeo - [https://www.youtube.com/watch?v=G6fMHGC55Ts&t=92s]</b><br>
 </div>
