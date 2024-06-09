@@ -1,6 +1,14 @@
 # srb2discordbot-linux
 ¡Chatea con jugadores de SRB2 en Discord! Si usa el archivo .exe, no necesita Python ni los módulos para el bot, pero si desea usar el archivo .py, necesita descargar Python 3+ y los módulos. El script no funciona en Linux y tampoco está probado para SRB2Kart.
 
+# Importante
+SRB2DiscordBot-Linux tiene 3 versiones/Sabores distintos:
+- srb2discordbot_linux1.py - la version mas estable.
+- srb2discordbot_linux_rc3.py - version con ventanas divididas solo para sistemas operativos con interfaz grafica y por defecto gnome terminal (modificado por mi, nua no me ayudo esta vez xd)
+- srb2discordbot_linux_rc4.py - la version RC4 es la mas estable para sistemas operativos sin interfaz grafica o VPS linux
+  
+rc3 y rc4 son consideradas versiones canario,es decir versiones a prueba de errores,en cambio srb2discorbot_linux1 es la version mas estable,sientase libre en modificar este script,creditos principalmente a Nua por ayudar y contribuir a la modificacion de este codigo de bot y a Sirexer por crear este script principalmente para linux,he hecho algo de uso de chatgpt para empezar a modificiar el codigo pero todo luego se fue modificando para que no tenga errores.
+
 # SRB2DiscordBot
 <span style="font-size: 18px">¡Chatea con los jugadores de SRB2 en Discord!</span></b><br>
 <span style="font-size: 15px">Si usas el archivo .exe, no necesitas python y módulos para el bot, pero si quieres usar el archivo .py necesitas descargar python 3+ y módulos.</span><br>
@@ -42,5 +50,5 @@
 <li data-xf-list-type="ul">serverparameters\parameters.cfg - parametros para el servidor, no cambiarán, a menos que edite el archivo;</li>
 <li data-xf-list-type="ul">serverparameters\pcfg&lt;X&gt;.cfg - parámetros para el servidor, si ha configurado reiniciar cambiarán.</li>
 </ul><br>
-<div style="text-align: center"><b>Guía en vídeo - [https://youtu.be/ZiKhOHKt_xk](https://www.youtube.com/watch?v=G6fMHGC55Ts&t=92s)</b><br>
+<div style="text-align: center"><b>Guía en vídeo - [[https://youtu.be/ZiKhOHKt_xk](https://www.youtube.com/watch?v=G6fMHGC55Ts&t=92s)]</b><br>
 </div>
