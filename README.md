@@ -7,7 +7,7 @@ SRB2DiscordBot-Linux tiene 3 versiones/Sabores distintos:
 - srb2discordbot_linux_rc3.py - version con ventanas divididas solo para sistemas operativos con interfaz grafica y por defecto gnome terminal (modificado por mi, nua no me ayudo esta vez xd)
 - srb2discordbot_linux_rc4.py - la version RC4 es la mas estable para sistemas operativos sin interfaz grafica o VPS linux
   
-rc3 y rc4 son consideradas versiones canario,es decir versiones a prueba de errores,en cambio srb2discorbot_linux1 es la version mas estable,sientase libre en modificar este script,creditos principalmente a Nua por ayudar y contribuir a la modificacion de este codigo de bot y a Sirexer por crear este script principalmente para linux,he hecho algo de uso de chatgpt para empezar a modificiar el codigo pero todo luego se fue modificando para que no tenga errores.
+rc3 y rc4 son consideradas versiones canario,es decir versiones a prueba de errores,en cambio srb2discorbot_linux1 es la version mas estable,sientase libre en modificar este script,creditos principalmente a Nua por ayudar y contribuir a la modificacion de este codigo de bot y a Sirexer por crear este script principalmente para windows,he hecho algo de uso de chatgpt para empezar a modificiar el codigo pero todo luego se fue modificando para que no tenga errores.
 
 # SRB2DiscordBot
 <span style="font-size: 18px">¡Chatea con los jugadores de SRB2 en Discord!</span></b><br>
