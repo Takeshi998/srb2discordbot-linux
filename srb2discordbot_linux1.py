@@ -677,7 +677,7 @@ def startserver():
                 #Close the server if the answer is yes
                 isstarted = False
                 shutil.copy(r'latest-log.txt', "srb2discordbot/srb2-logs/log-" + timestart + ".txt")
-                os.system("taskkill /f /im " + "./"+ config["srb2exe"])
+                os.system(f"killall " + config["srb2exe"])
                 log_file = open("latest-log.txt", "w")
                 log_file.write("")
                 log_file.close()
@@ -731,7 +731,7 @@ def restartserver():
         name = proc.name()
         #Close the crashed server
         if name == config["srb2exe"]:
-            os.system("taskkill /f /im " + "./"+ config["srb2exe"])
+            os.system(f"killall " + config["srb2exe"])
             break
     #Read parameters for the server
     file_parameters = open("srb2discordbot/serverparameters/parameters.cfg", "r")
